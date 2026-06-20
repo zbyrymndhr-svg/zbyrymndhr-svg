@@ -15,5 +15,5 @@ I am a Mathematics student passionate about Data Engineering, Data Science, and 
 * 🌍 Preparing for graduate studies (Master's) in Data Science & Artificial Intelligence.
 
 ## Connect with Me 📬
-* [LinkedIn](www.linkedin.com/in/zebiri-mounder)
+* [LinkedIn](https://www.linkedin.com/in/zebiri-mounder)
 * Email: zbyrymndhr@gmail.com
